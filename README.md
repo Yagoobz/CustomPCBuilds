@@ -21,13 +21,13 @@ Storage: Samsung 990 Pro 2 TB
 
 Cooling: NZXT Kraken Elite 360
 
-Power Supply: Asus ROG Thor 1200W Platinum II 80+ Platinum
+Power Supply: Asus ROG THOR Platinum II 1200W 80+ Platinum
 
 Case: NZXT H7 Flow
 
 Fans: Noctua NF-A12x25 (6) 
 
-Operating System: Windows 11 Pro 
+Operating System: Microsoft Windows 11 Pro 
 
 [Link to Parts](https://pcpartpicker.com/list/NyZCqR) 
 <br />
@@ -37,24 +37,24 @@ Operating System: Windows 11 Pro
 
 Specifications:
 
-CPU: Intel Core i9-14900K
+CPU: Intel Core i9-13900K
 
-GPU: NVIDIA Founders Edition GeForce RTX 4090
+GPU: MSI SUPRIM LIQUID X GeForce RTX 4090
 
-Motherboard: Asus ROG MAXIMUS Z790 DARK HERO
+Motherboard: Asus ROG MAXIMUS Z790 HERO
 
-RAM: G.Skill Ripjaws S5 64 GB DDR5-6000 CL30
+RAM: G.Skill Trident Z5 RGB 64 GB DDR5-6400 CL32
 
-Storage: Samsung 990 Pro 2 TB 
+Storage: Samsung 980 Pro 2 TB (2) 
 
-Cooling: NZXT Kraken Elite 360
+Cooling: NZXT Kraken Z73
 
-Power Supply: Asus ROG Thor 1200W Platinum II 80+ Platinum
+Power Supply: Asus ROG THOR 1200P 1200W 80+ Platinum
 
-Case: NZXT H7 Flow
+Case: Corsair 5000D Airflow
 
-Fans: Noctua NF-A12x25 (6) 
+Fans: Noctua NF-A12x25 (9) 
 
-Operating System: Windows 11 Pro 
+Operating System: Microsoft Windows 11 Home
 
-[Link to Parts](https://pcpartpicker.com/list/NyZCqR) 
+[Link to Parts](https://pcpartpicker.com/list/DCKQMV) 
