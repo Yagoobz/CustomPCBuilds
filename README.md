@@ -3,12 +3,7 @@
 <h2>Description</h2>
 Hello World :)
 
-
-
-
-
-
-
+![IMG_3401](https://github.com/Yagoobz/CustomPCBuilds/assets/145611184/70aa943c-2c96-4b7a-a410-188eafe65470)
 
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
