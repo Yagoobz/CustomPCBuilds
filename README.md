@@ -16,16 +16,18 @@ GPU: NVIDIA Founders Edition GeForce RTX 4090
 
 Motherboard: Asus ROG MAXIMUS Z790 DARK HERO
 
-RAM: G.Skill Ripjaws S5 64 GB (2 x 32 GB) DDR5-6000 CL30
+RAM: G.Skill Ripjaws S5 64 GB DDR5-6000 CL30
 
-Storage: Samsung 990 Pro 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive
+Storage: Samsung 990 Pro 2 TB 
 
-Cooling: 
+Cooling: NZXT Kraken Elite 360
 
-Power Supply: [Wattage and Brand]
+Power Supply: Asus ROG Thor 1200W Platinum II 80+ Platinum
 
-Case: [Case Model]
+Case: NZXT H7 Flow
 
-Operating System: [Operating System]
+Fans: Noctua NF-A12x25 (6) 
 
-Link to Parts: [Provide a link to the list of parts, if available]
+Operating System: Windows 11 Pro 
+
+[Link to Parts](...) 
