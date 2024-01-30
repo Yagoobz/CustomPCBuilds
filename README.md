@@ -31,3 +31,9 @@ Fans: Noctua NF-A12x25 (6)
 Operating System: Windows 11 Pro 
 
 [Link to Parts](https://pcpartpicker.com/list/NyZCqR) 
+<br />
+<br />
+<h4>Friends Rig:</h4>
+<img src="https://github.com/Yagoobz/CustomPCBuilds/assets/145611184/5ca510fc-7e78-4c41-9143-40a8eb7a397a" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+
