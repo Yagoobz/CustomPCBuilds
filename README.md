@@ -30,4 +30,4 @@ Fans: Noctua NF-A12x25 (6)
 
 Operating System: Windows 11 Pro 
 
-[Link to Parts](...) 
+[Link to Parts](https://pcpartpicker.com/list/NyZCqR) 
