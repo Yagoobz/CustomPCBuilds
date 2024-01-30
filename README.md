@@ -10,8 +10,6 @@ For almost a decade, I've been building custom PCs, beginning with building syst
 
 Specifications:
 
-
-
 CPU: [Processor Model]
 
 GPU: [Graphics Card Model]
@@ -19,9 +17,15 @@ GPU: [Graphics Card Model]
 RAM: [Amount and Type of RAM]
 
 Storage: [Type and Capacity of Storage Devices]
+
 Motherboard: [Motherboard Model]
+
 Cooling: [Type of Cooling Solution]
+
 Power Supply: [Wattage and Brand]
+
 Case: [Case Model]
+
 Operating System: [Operating System]
+
 Link to Parts: [Provide a link to the list of parts, if available]
