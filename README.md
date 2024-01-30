@@ -10,15 +10,15 @@ For almost a decade, I've been building custom PCs, beginning with building syst
 
 Specifications:
 
-CPU: Intel Core i9-14900K 
+CPU: Intel Core i9-14900K
 
-GPU: NVIDIA Founders Edition GeForce RTX 4090 
+GPU: NVIDIA Founders Edition GeForce RTX 4090
 
-Motherboard: Asus ROG MAXIMUS Z790 DARK HERO 
+Motherboard: Asus ROG MAXIMUS Z790 DARK HERO
 
-RAM: 
+RAM: G.Skill Ripjaws S5 64 GB (2 x 32 GB) DDR5-6000 CL30
 
-Storage: 
+Storage: Samsung 990 Pro 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive
 
 Cooling: 
 
