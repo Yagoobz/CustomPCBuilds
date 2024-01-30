@@ -9,6 +9,9 @@ For almost a decade, I've been building custom PCs, beginning with building syst
 
 
 Specifications:
+
+
+
 CPU: [Processor Model]
 
 GPU: [Graphics Card Model]
