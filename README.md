@@ -6,6 +6,8 @@ For almost a decade, I've been building custom PCs, beginning with building syst
 <br />
 <h4>Personal Rig:</h4>
 <img src="https://github.com/Yagoobz/CustomPCBuilds/assets/145611184/70aa943c-2c96-4b7a-a410-188eafe65470" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+
 Specifications:
 CPU: [Processor Model]
 GPU: [Graphics Card Model]
