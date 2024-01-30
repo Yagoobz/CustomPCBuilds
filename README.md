@@ -10,17 +10,17 @@ For almost a decade, I've been building custom PCs, beginning with building syst
 
 Specifications:
 
-CPU: [Processor Model]
+CPU: Intel Core i9-14900K 3.2 GHz 24-Core Processor
 
-GPU: [Graphics Card Model]
+GPU: NVIDIA Founders Edition GeForce RTX 4090 24 GB Video Card
 
-RAM: [Amount and Type of RAM]
+Motherboard: Asus ROG MAXIMUS Z790 DARK HERO ATX LGA1700 Motherboard
 
-Storage: [Type and Capacity of Storage Devices]
+RAM: 
 
-Motherboard: [Motherboard Model]
+Storage: 
 
-Cooling: [Type of Cooling Solution]
+Cooling: 
 
 Power Supply: [Wattage and Brand]
 
