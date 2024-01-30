@@ -3,10 +3,13 @@
 <h2>Description</h2>
 Hello World :)
 
-Select the disk:  <br/>
-<img src="https://imgur.com/a/URyTchb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
+
+
+
+
+
+
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
