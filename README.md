@@ -4,13 +4,8 @@
 Hello World :)
 <br />
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/URyTchb"/>
-<br />
-<br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/URyTchb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
