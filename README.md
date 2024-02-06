@@ -58,3 +58,32 @@ Fans: Noctua NF-A12x25 (9)
 Operating System: Microsoft Windows 11 Home
 
 [Link to Parts](https://pcpartpicker.com/list/DCKQMV) 
+<br />
+
+<h4>Friends Gaming Rig:</h4>
+<img src=".."/>
+
+Specifications:
+
+CPU: Intel Core i9-12900K
+
+GPU: EVGA FTW3 ULTRA GAMING GeForce RTX 3090
+
+Motherboard: Asus ROG MAXIMUS Z690 HERO
+
+RAM: G.Skill Trident Z5 RGB 32 GB DDR5-6000 CL36
+
+Storage: Samsung 980 Pro 2 TB  
+
+Cooling: NZXT Kraken Z73
+
+Power Supply: Corsair RM850x 850W 80+ Gold
+
+Case: Lian Li O11 Dynamic EVO
+
+Fans: Lian Li UNI FAN SL V2 (9) 
+
+Operating System: Microsoft Windows 10 Home
+
+[Link to Parts](https://pcpartpicker.com/list/brzHQP) 
+
