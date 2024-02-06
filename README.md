@@ -61,7 +61,7 @@ Operating System: Microsoft Windows 11 Home
 <br />
 
 <h4>Friends Gaming Rig:</h4>
-<img src="https://github.com/Yagoobz/CustomPCBuilds/assets/145611184/96207519-84a9-4c7c-be23-c96af219ade8"/>
+<img src="https://github.com/Yagoobz/CustomPCBuilds/assets/145611184/96207519-84a9-4c7c-be23-c96af219ade8" height="55%" width="55%" alt="Disk Sanitization Steps"/>
 
 Specifications:
 
