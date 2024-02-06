@@ -1,7 +1,7 @@
 <h1>Custom PC Builds</h1>
 
 <h2>Description</h2>
-For almost a decade, I've been building custom PCs, beginning with building systems for myself and friends. From those early days of experimentation to becoming the go-to person for customized computing solutions within my social circle, it's been quite the journey! Here are my two most recent PC builds. The first is my personal rig, used daily for work, studying, and gaming. The second is a build tailored for one of my close friends, who is a professional video editor and streamer. The specifications for each PC will be detailed below its respective image, along with a link in case you're interested in purchasing the parts.
+For almost a decade, I've been building custom PCs, beginning with building systems for myself and friends. From those early days of experimentation to becoming the go-to person for customized computing solutions within my social circle, it's been quite the journey! Here are my three most recent PC builds. The first is my personal rig, used daily for work, studying, and gaming. The second is a build tailored for a friend, who is a professional video editor and streamer. The third is a build for another friend, who uses it mainly for gaming. The specifications for each PC will be detailed below its respective image, along with a link in case you're interested in purchasing the parts.
 <br />
 
 <h4>Personal Rig:</h4>
